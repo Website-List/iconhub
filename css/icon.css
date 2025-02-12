@@ -6,7 +6,7 @@
 }
 
 .icon-home::before {
-  content: url('icons/home.svg');
+  content: url('https://cdn.jsdelivr.net/gh/Website-List/iconhub@refs/heads/main/icons/home.svg');
 }
 
 .icon-search::before {
