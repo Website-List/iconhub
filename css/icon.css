@@ -1,0 +1,18 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  vertical-align: middle;
+}
+
+.icon-home::before {
+  content: url('icons/home.svg');
+}
+
+.icon-search::before {
+  content: url('icons/search.svg');
+}
+
+.icon-user::before {
+  content: url('icons/user.svg');
+}
