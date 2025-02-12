@@ -1,5 +1,3 @@
-<i class="icon icon-home">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="24" height="24">
-    <path d="M12 3l8 8-1.4 1.4L18 11.8V19a1 1 0 0 1-1 1h-4v-4h-2v4H7a1 1 0 0 1-1-1v-7.2l-0.6 0.6L4 11l8-8z" />
-  </svg>
-</i>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="24" height="24">
+  <path d="M12 3l8 8-1.4 1.4L18 11.8V19a1 1 0 0 1-1 1h-4v-4h-2v4H7a1 1 0 0 1-1-1v-7.2l-0.6 0.6L4 11l8-8z" />
+</svg>
